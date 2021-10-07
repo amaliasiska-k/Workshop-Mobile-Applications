@@ -1,20 +1,20 @@
 # Workshop-Mobile-Applications
 
-<table>
+<table border="0">
 	<tr>
-		<td>NAMA</td>
-		<td>:</td>
-		<td>AMALIA SISKA KURNIAWATI</td>
+		<td><h3>NAMA</h3></td>
+		<td><h3>:</h3></td>
+		<td><h3>AMALIA SISKA KURNIAWATI</h3></td>
 	</tr>
 	<tr>
-		<td>NIM</td>
-		<td>:</td>
-		<td>E41201005</td>
+		<td><h3>NIM</h3></td>
+		<td><h3>:</h3></td>
+		<td><h3>E41201005</h3></td>
 	</tr>
 	<tr>
-		<td>PRODI/GOL</td>
-		<td>:</td>
-		<td>TIF A BONDOWOSO</td>
+		<td><h3>PRODI/GOL</h3></td>
+		<td><h3>:</h3></td>
+		<td><h3>TIF A BONDOWOSO</h3></td>
 	</tr>
 </table>
 
