@@ -1,10 +1,12 @@
 # Workshop-Mobile-Applications
 
-<h2>NIM   : E41201005</h2>
+<h3>NIM   : E41201005</h3>
 
-<h2>NAMA  : AMALIA SISKA KURNIAWATI</h2>
+<h3>NAMA  : AMALIA SISKA KURNIAWATI</h3>
 
-<h2>GOL   : A-BONDOWOSO</h2>
+<h3>GOL   : A-BONDOWOSO</h3>
+
+<hr>
 
 <h3>1. TAMPILAN LISTVIEW</h3>
 
