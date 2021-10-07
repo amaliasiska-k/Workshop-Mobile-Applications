@@ -8,7 +8,7 @@ GOL : A-BONDOWOSO
 
 1. TAMPILAN LISTVIEW
 
-<img src="https://user-images.githubusercontent.com/76760289/136337378-97d14ec7-71e1-4702-bdd5-bd1a714c3b18.jpeg" width="500px">
+<img src="https://user-images.githubusercontent.com/76760289/136337378-97d14ec7-71e1-4702-bdd5-bd1a714c3b18.jpeg" width="400px">
 ![WhatsApp Image 2021-10-07 at 08 38 04](https://user-images.githubusercontent.com/76760289/136337378-97d14ec7-71e1-4702-bdd5-bd1a714c3b18.jpeg)
 
 2. TAMPILAN AUTOCOMPLETE
