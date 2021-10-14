@@ -27,7 +27,7 @@
 <h3>
 	<a href="#Intent"> ~ TUGAS INTENT</a>
 </h3>
-
+<hr>
 <div id="SelectionWidget">
 	<h2># TUGAS SELECTION WIDGET</h2>
 	<p> Di bawah ini terdapat Modifikasi Selection Widget. Untuk tampilan masing - masing saya berikan screenshot berupa tampilan dari Aplikasi Sejarawan. Terdapat empat tampilan selection widget di bawah ini, yaitu Tampilan List View, Tampilan Auto Complete dan Tampilan saat di Klik juga  ada Tampilan Spinner.</p>
@@ -57,6 +57,6 @@
 	<p>Di bawah ini terdapat Modifikasi Intent. Untuk tampilan masing - masing saya berikan screenshot berupa tampilan untuk membuka situs Facebook. Terdapat 2 tampilan fragment di bawah ini, yaitu Tampilan Input Link Situs dan Tampilan Situs saat di Visit.</p>
 	<h3>1. TAMPILAN INPUT LINK SITUS</h3>
 	<img src="https://user-images.githubusercontent.com/76760289/137257420-0504388d-6a96-4316-aa79-f669c5197a78.png" width="300px">
-	<h3>2. TAMPILAN SIRUS SAAT DI VISIT</h3>
+	<h3>2. TAMPILAN SITUS SAAT DI VISIT</h3>
 	<img src="https://user-images.githubusercontent.com/76760289/137257406-7e314d36-3b49-44a9-9dc7-6053311898ea.png" width="300px">
 </div>
