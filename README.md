@@ -17,13 +17,13 @@
 </table>
 
 <h3>
-	<a href="#SelectionWidget"> ~ MINGGU 4 - SELECTION WIDGET</a>
+	<a href="#SelectionWidget"> ~ TUGAS SELECTION WIDGET</a>
 </h3>
 <h3>
-	<a href="#Fragment"> ~ MINGGU 5 - FRAGMENT</a>
+	<a href="#Fragment"> ~ TUGAS FRAGMENT</a>
 </h3>
 <h3>
-	<a href="#Intent"> ~ MINGGU 6 - INTENT</a>
+	<a href="#Intent"> ~ TUGAS INTENT</a>
 </h3>
 
 <div id="SelectionWidget">
