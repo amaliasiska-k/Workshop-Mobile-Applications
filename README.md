@@ -45,11 +45,11 @@
 	<h2># TUGAS FRAGMENT</h2>
 	<p>Di bawah ini terdapat Modifikasi Fragment. Untuk tampilan masing - masing saya berikan screenshot berupa tampilan  dari Aplikasi Whatsapp. Terdapat tiga tampilan fragment di bawah ini, yaitu Tampilan Fragment Chatts , Tampilan Fragment Status dan Tampilan Calls. </p>
 	<h3>1. TAMPILAN FRAGMENT CHATS</h3>
-	<img src="https://user-images.githubusercontent.com/76760289/137255084-f2168f06-9fd6-4d0a-b106-eb90fe1bbd2d.jpeg" width="300px">
+	<img src="https://user-images.githubusercontent.com/76760289/137262060-58f33564-a186-4946-bd91-5571cdf0d653.jpeg" width="300px">
 	<h3>2. TAMPILAN FRAGMENT STATUS</h3>
-	<img src="https://user-images.githubusercontent.com/76760289/137255090-4bd2d9c1-d417-462f-b695-fa45a4c311b1.jpeg" width="300px">
+	<img src="https://user-images.githubusercontent.com/76760289/137262063-8d99cbff-7efa-4ba6-9fa3-9cb278a2453a.jpeg" width="300px">
 	<h3>3. TAMPILAN FRAGMENT CALLS</h3>
-	<img src="https://user-images.githubusercontent.com/76760289/137255076-828cb4eb-ad54-4fec-b6c3-5156ccfa970b.jpeg" width="300px">
+	<img src="https://user-images.githubusercontent.com/76760289/137262047-e566369e-82de-414e-abc2-3a8f627d5039.jpeg" width="300px">
 	</div>
 <hr>
 <div id="Intent">
