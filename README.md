@@ -23,7 +23,7 @@
 	<a href="#Fragment"> ~ MINGGU 5 - FRAGMENT</a>
 </h3>
 <h3>
-	<a href="#Intent"> ~ MINGGU 6 - INTENT (IMPLICIT AND EXPLICIT)</a>
+	<a href="#Intent"> ~ MINGGU 6 - INTENT</a>
 </h3>
 
 <div id="SelectionWidget">
@@ -59,8 +59,7 @@
 	<h3>DESKRIPSI SINGKAT APLIKASI</h3>
 	<p>Secara singkat, intent merupakan sebuah kelas dalam programming android yang berfungsi untuk perpindahan halaman dan juga mekanisme untuk melakukan sebuah action dan komunikasi antar komponen aplikasi misal activity, services, dan broadcast receiver. Di bawah ini saya membuat fungsi intent dengan tampilan android sederhana. Cara kerjanya dimulai dari menginputkan sebuah link eksternal yang ingin dituju. Setelah itu klik tombol visit untuk mengunjungi/membuka tampilan halaman dari link eksternal tersebut. Berikut merupakan ringkasan tampilan dari modifikasi intent yang telah saya buat.</p>
 	<h3>[1] Input Link Eksternal</h3>
-	<img src="https://user-images.githubusercontent.com/76760289/137255091-54d94c6f-37b4-49fa-b50d-acf66995dd62.png" width="300px">
+	<img src="https://user-images.githubusercontent.com/76760289/137257420-0504388d-6a96-4316-aa79-f669c5197a78.png" width="300px">
 	<h3>[2] Ouput Ketika Menekan Tombol Visit</h3>
-	<img src="https://user-images.githubusercontent.com/76760289/137255088-e21fd47d-6e43-4df2-b851-ef335d0bd68d.png" width="300px">
+	<img src="https://user-images.githubusercontent.com/76760289/137257406-7e314d36-3b49-44a9-9dc7-6053311898ea.png" width="300px">
 </div>
-				
