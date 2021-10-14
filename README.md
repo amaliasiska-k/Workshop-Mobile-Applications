@@ -29,7 +29,7 @@
 </h3>
 
 <div id="SelectionWidget">
-	<h2>TUGAS SELECTION WIDGET</h2>
+	<h2># TUGAS SELECTION WIDGET</h2>
 	<p> Di bawah ini terdapat Modifikasi Selection Widget. Untuk tampilan masing - masing saya berikan screenshot berupa tampilan dari Aplikasi Sejarawan. Terdapat empat tampilan selection widget di bawah ini, yaitu Tampilan List View, Tampilan Auto Complete dan Tampilan saat di Klik juga  ada Tampilan Spinner.</p>
 	<h3>1. TAMPILAN LISTVIEW</h3>
 	<img src="https://user-images.githubusercontent.com/76760289/136337378-97d14ec7-71e1-4702-bdd5-bd1a714c3b18.jpeg" width="300px">
@@ -42,7 +42,7 @@
 </div>
 <hr>
 <div id="Fragment">
-	<h2>TUGAS FRAGMENT</h2>
+	<h2># TUGAS FRAGMENT</h2>
 	<p>Di bawah ini terdapat Modifikasi Fragment. Untuk tampilan masing - masing saya berikan screenshot berupa tampilan  dari Aplikasi Whatsapp. Terdapat tiga tampilan fragment di bawah ini, yaitu Tampilan Fragment Chatts , Tampilan Fragment Status dan Tampilan Calls. </p>
 	<h3>1. TAMPILAN FRAGMENT CHATS</h3>
 	<img src="https://user-images.githubusercontent.com/76760289/137255084-f2168f06-9fd6-4d0a-b106-eb90fe1bbd2d.jpeg" width="300px">
@@ -53,7 +53,7 @@
 	</div>
 <hr>
 <div id="Intent">
-	<h2>TUGAS INTENT</h2>
+	<h2># TUGAS INTENT</h2>
 	<p>Di bawah ini terdapat Modifikasi Intent. Untuk tampilan masing - masing saya berikan screenshot berupa tampilan untuk membuka situs Facebook. Terdapat 2 tampilan fragment di bawah ini, yaitu Tampilan Input Link Situs dan Tampilan Situs saat di Visit.</p>
 	<h3>1. TAMPILAN INPUT LINK SITUS</h3>
 	<img src="https://user-images.githubusercontent.com/76760289/137257420-0504388d-6a96-4316-aa79-f669c5197a78.png" width="300px">
