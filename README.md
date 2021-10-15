@@ -55,8 +55,7 @@
 <div id="Intent">
 	<h2># TUGAS INTENT (IMPLICIT & EXPLICIT)</h2>
 	<p>Di bawah ini terdapat Modifikasi Intent (Implicit & Explicit).
-Untuk tampilan Implicit masing - masing saya berikan screenshot berupa tampilan untuk membuka situs Facebook. Terdapat 2 tampilan intent implicit di bawah ini, yaitu Tampilan Input Link dan Tampilan View Link.
-Untuk tampilan Explicit masing - masing saya berikan screenshot berupa tampilan untuk membuka halaman baru presensi. Terdapat 2 tampilan intent explicit di bawah ini, yaitu Tampilan Input Nama dan Tampilan Output Nama.</p>
+Untuk tampilan Implicit masing - masing saya berikan screenshot berupa tampilan untuk membuka situs Facebook. Terdapat 2 tampilan Intent Implicit di bawah ini, yaitu Tampilan Input Link dan Tampilan View Link. Sedangkan untuk tampilan Intent Explicit masing - masing saya berikan screenshot berupa tampilan untuk membuka halaman baru presensi. Terdapat 2 tampilan Intent Explicit di bawah ini, yaitu Tampilan Input Nama dan Tampilan Output Nama.</p>
 	<h2>IMPLICIT</h2>
 	<h3>1. TAMPILAN INPUT LINK</h3>
 	<img src="https://user-images.githubusercontent.com/76760289/137257420-0504388d-6a96-4316-aa79-f669c5197a78.png" width="300px">
