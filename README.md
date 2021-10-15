@@ -25,7 +25,7 @@
 	<a href="#Fragment"> ~ TUGAS FRAGMENT</a>
 </h3>
 <h3>
-	<a href="#Intent"> ~ TUGAS INTENT</a>
+	<a href="#Intent"> ~ TUGAS INTENT (IMPLICIT & EXPLICIT)</a>
 </h3>
 <hr>
 <div id="SelectionWidget">
@@ -54,7 +54,9 @@
 <hr>
 <div id="Intent">
 	<h2># TUGAS INTENT (IMPLICIT & EXPLICIT)</h2>
-	<p>Di bawah ini terdapat Modifikasi Intent. Untuk tampilan masing - masing saya berikan screenshot berupa tampilan untuk membuka situs Facebook. Terdapat 2 tampilan fragment di bawah ini, yaitu Tampilan Input Link Situs dan Tampilan Situs saat di Visit.</p>
+	<p>Di bawah ini terdapat Modifikasi Intent (Implicit & Explicit).
+Untuk tampilan Implicit masing - masing saya berikan screenshot berupa tampilan untuk membuka situs Facebook. Terdapat 2 tampilan intent implicit di bawah ini, yaitu Tampilan Input Link dan Tampilan View Link.
+Untuk tampilan Explicit masing - masing saya berikan screenshot berupa tampilan untuk membuka halaman baru presensi. Terdapat 2 tampilan intent explicit di bawah ini, yaitu Tampilan Input Nama dan Tampilan Output Nama.</p>
 	<h2>IMPLICIT</h2>
 	<h3>1. TAMPILAN INPUT LINK</h3>
 	<img src="https://user-images.githubusercontent.com/76760289/137257420-0504388d-6a96-4316-aa79-f669c5197a78.png" width="300px">
@@ -63,6 +65,6 @@
 	<h2>EXPLICIT</h2>
 	<h3>1. TAMPILAN INPUT NAMA</h3>
 	<img src="https://user-images.githubusercontent.com/76760289/137428733-ce745add-12f5-4d72-a43a-80b954893ee7.png" width="300px">
-	<h3>2. TAMPILAN OUTPUT NAMA/h3>
+	<h3>2. TAMPILAN OUTPUT NAMA</h3>
 	<img src="https://user-images.githubusercontent.com/76760289/137428746-84f9f118-d3ac-4ea4-902e-93ef466bd820.pngg" width="300px">
 </div>
