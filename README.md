@@ -65,5 +65,5 @@ Untuk tampilan Implicit masing - masing saya berikan screenshot berupa tampilan 
 	<h3>1. TAMPILAN INPUT NAMA</h3>
 	<img src="https://user-images.githubusercontent.com/76760289/137428733-ce745add-12f5-4d72-a43a-80b954893ee7.png" width="300px">
 	<h3>2. TAMPILAN OUTPUT NAMA</h3>
-	<img src="https://user-images.githubusercontent.com/76760289/137428746-84f9f118-d3ac-4ea4-902e-93ef466bd820.pngg" width="300px">
+	<img src="https://user-images.githubusercontent.com/76760289/137428746-84f9f118-d3ac-4ea4-902e-93ef466bd820.png" width="300px">
 </div>
