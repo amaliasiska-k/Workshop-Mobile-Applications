@@ -28,7 +28,10 @@
 	<a href="#Intent"> ~ TUGAS INTENT (IMPLICIT & EXPLICIT)</a>
 </h3>
 <h3>
-	<a href="#ManagementFile+SQLite"> ~ TUGAS MANAGEMENT FILE dan IMPLEMENTASI SQLITE</a>
+	<a href="#ManagementFile"> ~ TUGAS MANAGEMENT FILE</a>
+</h3>
+<h3>
+	<a href="#ImplementasiSQlite"> ~ TUGAS IMPLEMENTASI SQLITE</a>
 </h3>
 <hr>
 <div id="SelectionWidget">
@@ -70,3 +73,9 @@ Untuk tampilan Implicit masing - masing saya berikan screenshot berupa tampilan 
 	<h3>2. TAMPILAN OUTPUT NAMA</h3>
 	<img src="https://user-images.githubusercontent.com/76760289/137428746-84f9f118-d3ac-4ea4-902e-93ef466bd820.png" width="300px">
 </div>
+<div id="ManagementFile">
+</div>
+<hr>
+<div id="ImplementasiSQLite">
+</div>
+
