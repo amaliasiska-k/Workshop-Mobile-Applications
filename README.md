@@ -27,6 +27,9 @@
 <h3>
 	<a href="#Intent"> ~ TUGAS INTENT (IMPLICIT & EXPLICIT)</a>
 </h3>
+<h3>
+	<a href="#ManagementFile + SQLite"> ~ TUGAS MANAGEMENT FILE dan IMPLEMENTASI SQLITE</a>
+</h3>
 <hr>
 <div id="SelectionWidget">
 	<h2># TUGAS SELECTION WIDGET</h2>
