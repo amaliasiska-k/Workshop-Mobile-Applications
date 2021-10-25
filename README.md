@@ -76,10 +76,17 @@ Untuk tampilan Implicit masing - masing saya berikan screenshot berupa tampilan 
 <div id="ManagementFile">
 	<h2># TUGAS MANAGEMENT FILE</h2>
 	<p>Di bawah ini terdapat Management File.</p>
+	<img src="https://user-images.githubusercontent.com/76760289/138697288-cabd27f7-2b9d-4adc-aa2c-cd7f22c178bc.jpeg" width="300px">
 </div>
 <hr>
 <div id="ImplementasiSQLite">
 	<h2># TUGAS IMPLEMENTASI SQLite</h2>
 	<p>Di bawah ini terdapat Implementasi SQLite.</p>
+	<img src="https://user-images.githubusercontent.com/76760289/138696250-d9900ae5-5cbf-48c8-a2dc-0bf89aeea5bc.jpeg" width="300px">
+	<img src="https://user-images.githubusercontent.com/76760289/138696266-127aba00-03b2-469b-9c4c-0ce8ac350513.jpeg" width="300px">
+	<img src="https://user-images.githubusercontent.com/76760289/138696289-cd848b98-28c1-48f4-83dc-56fd4f566e6b.jpeg" width="300px">
+	<img src="https://user-images.githubusercontent.com/76760289/138696273-07fe27fb-0ca4-4033-bdbc-bc992bac9853.jpeg" width="300px">
+	<img src="https://user-images.githubusercontent.com/76760289/138696295-deb0000b-34e3-4350-92fd-d75f32cadc7b.jpeg" width="300px">
 </div>
 
+		
