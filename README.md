@@ -15,9 +15,8 @@
 		<td>TIF A BONDOWOSO</td>
 	</tr>
 </table>
-
+<div id="Kembali">
 <h2>BERIKUT LINK OUTPUT TUGAS : </h2>
-
 <h3>
 	<a href="#SelectionWidget"> ~ 1. TUGAS SELECTION WIDGET</a>
 </h3>
@@ -49,7 +48,9 @@
 	<h3>4. TAMPILAN SPINNER</h3>
 	<img src="https://user-images.githubusercontent.com/76760289/136337973-add65309-0f1f-4e20-a7be-de72a41c5d46.jpeg" width="300px">
 </div>
-	<a href="#SelectionWidget"> Kembali</a>
+<h3>
+	<a href="#Kembali"> Kembali</a>
+</h3>
 <hr>
 <div id="Fragment">
 	<h2># TUGAS FRAGMENT</h2>
