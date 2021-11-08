@@ -111,7 +111,7 @@ Untuk tampilan Implicit masing - masing saya berikan screenshot berupa tampilan 
 <div id="SharedPreferences">
 	<h2># TUGAS SHARED PREFERENCES</h2>
 	<p>Di bawah ini terdapat Implementasi Shared Preferences. Untuk tampilan masing - masing saya berikan screenshot berupa tampilan dari login dan register. Terdapat 8 		tampilan di bawah ini, yaitu</p>
-	<h3>1. TAMPILAN FORM LOGIN</h3>
+	<h3>1. Tampilan Form Login</h3>
 	<img src="https://user-images.githubusercontent.com/76760289/140686362-403b1d89-0ccd-4074-9f31-67202402e3e8.jpeg" width="300px">
 	<h3>2. Tampilan Form RegisterR</h3>
 	<img src="https://user-images.githubusercontent.com/76760289/140686419-38c0b420-43ea-468e-93fe-1970f38aed9a.jpeg" width="300px">
