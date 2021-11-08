@@ -19,19 +19,22 @@
 <h2>BERIKUT LINK OUTPUT TUGAS : </h2>
 
 <h3>
-	<a href="#SelectionWidget"> ~ TUGAS SELECTION WIDGET</a>
+	<a href="#SelectionWidget"> ~ 1. TUGAS SELECTION WIDGET</a>
 </h3>
 <h3>
-	<a href="#Fragment"> ~ TUGAS FRAGMENT</a>
+	<a href="#Fragment"> ~ 2.TUGAS FRAGMENT</a>
 </h3>
 <h3>
-	<a href="#Intent"> ~ TUGAS INTENT (IMPLICIT & EXPLICIT)</a>
+	<a href="#Intent"> ~ 3.TUGAS INTENT (IMPLICIT & EXPLICIT)</a>
 </h3>
 <h3>
-	<a href="#ManagementFile"> ~ TUGAS MANAGEMENT FILE</a>
+	<a href="#ManagementFile"> ~ 4.TUGAS MANAGEMENT FILE</a>
 </h3>
 <h3>
-	<a href="#ImplementasiSQlite"> ~ TUGAS IMPLEMENTASI SQLITE</a>
+	<a href="#ImplementasiSQlite"> ~ 5.TUGAS IMPLEMENTASI SQLITE</a>
+</h3>
+<h3>
+	<a href="#SharedPreferences"> ~ 6.TUGAS SHARED PREFERENCES</a>
 </h3>
 <hr>
 <div id="SelectionWidget">
@@ -87,6 +90,27 @@ Untuk tampilan Implicit masing - masing saya berikan screenshot berupa tampilan 
 	<img src="https://user-images.githubusercontent.com/76760289/138696289-cd848b98-28c1-48f4-83dc-56fd4f566e6b.jpeg" width="300px">
 	<img src="https://user-images.githubusercontent.com/76760289/138696273-07fe27fb-0ca4-4033-bdbc-bc992bac9853.jpeg" width="300px">
 	<img src="https://user-images.githubusercontent.com/76760289/138696295-deb0000b-34e3-4350-92fd-d75f32cadc7b.jpeg" width="300px">
+</div>
+<hr>
+<div id="SharedPreferences">
+	<h2># TUGAS SHARED PREFERENCES</h2>
+	<p>Di bawah ini terdapat Implementasi Shared Preferences. Untuk tampilan masing - masing saya berikan screenshot berupa tampilan dari login dan register. Terdapat 8 		tampilan di bawah ini, yaitu</p>
+	<h3>1. TAMPILAN FORM LOGIN</h3>
+	<img src="https://user-images.githubusercontent.com/76760289/140686362-403b1d89-0ccd-4074-9f31-67202402e3e8.jpeg" width="300px">
+	<h3>2. Tampilan Form RegisterR</h3>
+	<img src="https://user-images.githubusercontent.com/76760289/140686419-38c0b420-43ea-468e-93fe-1970f38aed9a.jpeg" width="300px">
+	<h3>3. Tampilan Pengisian Data Register</h3>
+	<img src="https://user-images.githubusercontent.com/76760289/140686412-bc066f22-acfe-4fa2-89bf-c447fa4349bf" width="300px">
+	<h3>4. Tampilan Pengisian Data Login</h3>
+	<img src="https://user-images.githubusercontent.com/76760289/140686407-f55473df-9390-4180-8a62-20ad42d1b5f6.jpeg" width="300px">
+	<h3>5. Tampilan Berhasil Login</h3>
+	<img src="https://user-images.githubusercontent.com/76760289/140686392-d563c41f-f874-40e6-a733-124957710d00.jpeg" width="300px">
+	<h3>6. Tampilan Alert Data Kosong</h3>
+	<img src="https://user-images.githubusercontent.com/76760289/140686389-8864ffe3-dafb-45e7-8d00-f4cc65ac0816.jpeg" width="300px">
+	<h3>7. Tampilan Alert Password Tidak Valid</h3>
+	<img src="https://user-images.githubusercontent.com/76760289/140686401-c47ee1bf-9706-47c9-9f73-c2a3cf0534cd.jpeg" width="300px">
+	<h3>8. Tampilan Alert Username Tidak Valid</h3>
+	<img src="https://user-images.githubusercontent.com/76760289/140686424-98f06ee2-a0ad-439c-b6fd-ae698b7b6452.jpeg" width="300px">
 </div>
 
 		
