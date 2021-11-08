@@ -49,6 +49,7 @@
 	<h3>4. TAMPILAN SPINNER</h3>
 	<img src="https://user-images.githubusercontent.com/76760289/136337973-add65309-0f1f-4e20-a7be-de72a41c5d46.jpeg" width="300px">
 </div>
+	<a href="#SelectionWidget"> Kembali</a>
 <hr>
 <div id="Fragment">
 	<h2># TUGAS FRAGMENT</h2>
