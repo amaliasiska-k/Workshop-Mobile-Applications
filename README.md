@@ -100,7 +100,7 @@ Untuk tampilan Implicit masing - masing saya berikan screenshot berupa tampilan 
 	<h3>2. Tampilan Form RegisterR</h3>
 	<img src="https://user-images.githubusercontent.com/76760289/140686419-38c0b420-43ea-468e-93fe-1970f38aed9a.jpeg" width="300px">
 	<h3>3. Tampilan Pengisian Data Register</h3>
-	<img src="https://user-images.githubusercontent.com/76760289/140686412-bc066f22-acfe-4fa2-89bf-c447fa4349bf" width="300px">
+	<img src="https://user-images.githubusercontent.com/76760289/140687857-1f66fb48-46fe-4b30-ae5b-3aa9aa1d12e1.jpeg" width="300px">
 	<h3>4. Tampilan Pengisian Data Login</h3>
 	<img src="https://user-images.githubusercontent.com/76760289/140686407-f55473df-9390-4180-8a62-20ad42d1b5f6.jpeg" width="300px">
 	<h3>5. Tampilan Berhasil Login</h3>
@@ -113,4 +113,3 @@ Untuk tampilan Implicit masing - masing saya berikan screenshot berupa tampilan 
 	<img src="https://user-images.githubusercontent.com/76760289/140686424-98f06ee2-a0ad-439c-b6fd-ae698b7b6452.jpeg" width="300px">
 </div>
 
-		
