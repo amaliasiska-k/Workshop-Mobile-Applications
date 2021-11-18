@@ -35,6 +35,9 @@
 <h3>
 	<a href="#SharedPreferences"> ~ 6.TUGAS SHARED PREFERENCES</a>
 </h3>
+<h3>
+	<a href="#SimpleMapAndSensor"> ~ 6.TUGAS SIMPLE MAP DAN SENSOR</a>
+</h3>
 <hr>
 	
 <div id="SelectionWidget">
@@ -106,8 +109,7 @@ Untuk tampilan Implicit masing - masing saya berikan screenshot berupa tampilan 
 <h3>
 	<a href="#Kembali"> Kembali</a>
 </h3>
-<hr>
-		
+<hr>		
 <div id="SharedPreferences">
 	<h2># TUGAS SHARED PREFERENCES</h2>
 	<p>Di bawah ini terdapat Implementasi Shared Preferences. Untuk tampilan masing - masing saya berikan screenshot berupa tampilan dari login dan register. Terdapat 8 		tampilan di bawah ini, yaitu</p>
@@ -131,4 +133,18 @@ Untuk tampilan Implicit masing - masing saya berikan screenshot berupa tampilan 
 <h3>
 	<a href="#Kembali"> Kembali</a>
 </h3>
+<div id="SimpleMapAndSensor">
+	<h2># TUGAS SIMPLE MAP AND SENSOR</h2>
+	<p>Di bawah ini terdapat implementasi Map dan Sensor Akses Hardware. Untuk tampilan masing - masing saya berikan screenshot berupa tampilan dari maps rumah saya dan sensor hp saya. Terdapat 3 tampilan di bawah ini, yaitu</p>
+	<h3>1. Tampilan Pertama</h3>
+	<img src="https://user-images.githubusercontent.com/76760289/142442036-eefa2bfa-e466-4d61-9651-8520cd7cc59b.png" width="300px">
+	<h3>2. Tampilan Map </h3>
+	<img src="https://user-images.githubusercontent.com/76760289/142442047-22ef1501-ac7e-4269-931f-ed60d46b4e34.png" width="300px">
+	<h3>3. Tampilan Sensor Hp </h3>
+	<img src="https://user-images.githubusercontent.com/76760289/142442093-a5dc9ebd-d9a9-4789-b993-6c373103b268.png" width="300px">
+</div>
+<h3>
+	<a href="#Kembali"> Kembali</a>
+</h3>
+
 
