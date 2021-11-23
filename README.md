@@ -38,6 +38,9 @@
 <h3>
 	<a href="#SimpleMapAndSensor"> ~ 6.TUGAS SIMPLE MAP DAN SENSOR</a>
 </h3>
+<h3>
+	<a href="#ImplementasiRetrofit"> ~ 7.TUGAS IMPLEMENTASI RETROFIT</a>
+</h3>	
 <hr>
 	
 <div id="SelectionWidget">
@@ -142,6 +145,19 @@ Untuk tampilan Implicit masing - masing saya berikan screenshot berupa tampilan 
 	<img src="https://user-images.githubusercontent.com/76760289/142442047-22ef1501-ac7e-4269-931f-ed60d46b4e34.png" width="300px">
 	<h3>3. Tampilan Sensor Hp </h3>
 	<img src="https://user-images.githubusercontent.com/76760289/142442093-a5dc9ebd-d9a9-4789-b993-6c373103b268.png" width="300px">
+</div>
+<h3>
+	<a href="#Kembali"> Kembali</a>
+</h3>
+<div id="ImplementasiRetrofit">
+	<h2># TUGAS IMPLEMENTASI RETROFIT</h2>
+	<p>Di bawah ini terdapat implementasi retrofit. Untuk tampilan masing - masing saya berikan screenshot berupa tampilan dari CRUD (Create/Tambah, Read/Baca, Update/Ubah, Delete/Hapus). Terdapat 3 tampilan di bawah ini, yaitu</p>
+	<h3>1. Tampilan Tambah Data</h3>
+	<img src="https://user-images.githubusercontent.com/76760289/142961469-1873d00c-a8f2-438d-a736-41d8f1afd996.jpeg" width="300px">
+	<h3>2. Tampilan Ubah Data</h3>
+	<img src="https://user-images.githubusercontent.com/76760289/142961549-5fae3c4e-a487-4830-b3ab-ee4102373062.jpeg" width="300px">
+	<h3>3. Tampilan Menu Delete</h3>
+	<img src="https://user-images.githubusercontent.com/76760289/142961593-8dc19b7a-5465-42a3-8ce7-d10d56c2a920.jpeg" width="300px">
 </div>
 <h3>
 	<a href="#Kembali"> Kembali</a>
